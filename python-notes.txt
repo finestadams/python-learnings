@@ -1,0 +1,26 @@
+py -3 --version - get the version of python in the command line
+py - command line conde for python, similar to node command line
+cntrl + , will open on the vscode settings
+// the double slash is floor division e.g 24 // 4 - round it down
+round e.g round(24/5) = 5  -> round up
+% - modulus
+exponential e,g 2 ** 3 = 2 * 2 * 2
++ use to concantenate strings  
+
+comparison operator
+======================
+return boolean
+
+42 == 41
+42 == 42
+42 != 42 
+
+10 < 5
+10 > 5
+10 >= 10
+10 <= 10
+not is the opposite of true or false
+x and y looks ate if two conditons is true
+x or y look at if one or more condition is true
+
+"stopped at 38 minutes"
