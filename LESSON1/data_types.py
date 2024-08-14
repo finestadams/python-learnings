@@ -127,3 +127,11 @@ print(math.ceil(box_amount))
 print(math.floor(box_amount))
 
 #casting a string to a number
+
+castString = int('10001')
+print(type(castString))
+print(castString)
+
+# issues - you cannot cast a string that is not a number
+
+# castString = int("New York") would lead to an issue because the string is not an actual string number
